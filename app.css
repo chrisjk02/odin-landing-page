@@ -7,3 +7,7 @@ button color, call to action: 3882f6
 info header text: 36px extra-bold, 1F2937
 quote background: e5e7eb
 quote text: 36px light italic, 1f2937 */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
