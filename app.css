@@ -11,3 +11,19 @@ quote text: 36px light italic, 1f2937 */
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    background-color: #1f2937;
+    color: white;
+}
