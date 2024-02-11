@@ -77,6 +77,11 @@ button {
     color: #f9faf8;
 }
 
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .hero img {
     width: 300px;
     height: auto;
