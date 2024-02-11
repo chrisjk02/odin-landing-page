@@ -49,6 +49,11 @@ body {
     flex: 1;
 }
 
+.hero img {
+    width: 300px;
+    height: auto;
+}
+
 .more-info {
     flex: 1;
 }
