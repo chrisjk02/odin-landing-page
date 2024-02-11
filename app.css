@@ -106,6 +106,7 @@ button {
     align-items: center;
     justify-content: center;
     padding: 100px;
+    gap: 50px;
 }
 
 .more-info-title {
