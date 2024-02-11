@@ -64,10 +64,17 @@ button {
     display: flex;
     padding: 24px;
     gap: 16px;
+    background-color: #1f2937;
 }
 
 .hero-content {
     flex: 1;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
 }
 
 .hero img {
