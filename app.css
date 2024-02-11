@@ -130,6 +130,13 @@ button {
     padding: 100px;
 }
 
+.quote-content {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
 .quoter {
     align-self: flex-end;
 }
