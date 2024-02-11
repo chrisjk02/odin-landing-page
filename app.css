@@ -107,6 +107,7 @@ button {
     justify-content: center;
     padding: 100px;
     gap: 50px;
+    text-align: center;
 }
 
 .more-info-title {
@@ -117,6 +118,7 @@ button {
 
 .card-list {
     display: flex;
+    gap: 20px;
 }
 
 .quote {
