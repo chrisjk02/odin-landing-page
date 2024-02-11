@@ -144,8 +144,12 @@ button {
 }
 
 .call-to-action {
-    background-color: #3882f6;
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
 }
 
 .footer {
