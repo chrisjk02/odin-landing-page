@@ -130,6 +130,10 @@ button {
     padding: 100px;
 }
 
+.quoter {
+    align-self: flex-end;
+}
+
 .call-to-action {
     background-color: #3882f6;
     flex: 1;
