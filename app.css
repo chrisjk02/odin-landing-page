@@ -152,6 +152,10 @@ button {
     padding: 100px;
 }
 
+.call-to-action-text {
+    background-color: #3882f6;
+}
+
 .footer {
     background-color: #1f2937;
     color: white;
