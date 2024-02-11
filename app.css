@@ -17,6 +17,14 @@ body {
     min-height: 100vh;
 }
 
+button {
+    background-color: #3882f6;
+    color: white;
+    border: none;
+    padding: 7px 25px;
+    border-radius: 5px;
+}
+
 .header ul {
     list-style-type: none;
     margin: 0;
