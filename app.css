@@ -48,11 +48,17 @@ body {
 .hero {
     flex: 1;
     display: flex;
+    padding: 24px;
+}
+
+.hero-content {
+    flex: 1;
 }
 
 .hero img {
     width: 300px;
     height: auto;
+    flex: 1;
 }
 
 .more-info {
