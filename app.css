@@ -154,6 +154,10 @@ button {
 
 .call-to-action-text {
     background-color: #3882f6;
+    padding: 25px 100px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
 }
 
 .footer {
