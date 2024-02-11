@@ -38,6 +38,12 @@ body {
     padding: 24px;
 }
 
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 700;
+}
+
 .content {
     flex: auto;
     display: flex;
